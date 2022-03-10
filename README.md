@@ -23,7 +23,6 @@ to follow along.
 In this code along, we'll be working with a `cats` table in the provided
 `pets_database.db` file. Explore the `cats` table structure using the SQLite
 VSCode extension, or with DB Browser, or by running the `sqlite3` prompt:
-
 ```console
 $ sqlite3 pets_database.db
 sqlite> .schema
